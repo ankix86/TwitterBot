@@ -1,5 +1,5 @@
 # TwitterBot
-TwitterBot made with python using "tweepy modue"
+TwitterBot made with python using "tweepy module"
 Here Two files are give 
 
 1.TwitterBot
