@@ -24,7 +24,7 @@ def store_last_seen_id(last_seen_id,file_name):
 	f_write.write(str(last_seen_id))
 	f_write.close()
 	return
- #1061317696254468096
+
 def reply_to_tweet():
 	print("Bot Working")
 	last_seen_id = retrieve_last_seen_id(FILE_NAME)
